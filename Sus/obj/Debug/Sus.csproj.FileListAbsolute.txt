@@ -1,0 +1,6 @@
+C:\Users\perfi\source\repos\Sus\Sus\bin\Debug\Sus.dll
+C:\Users\perfi\source\repos\Sus\Sus\bin\Debug\Sus.pdb
+C:\Users\perfi\source\repos\Sus\Sus\obj\Debug\Sus.csprojAssemblyReference.cache
+C:\Users\perfi\source\repos\Sus\Sus\obj\Debug\Sus.csproj.CoreCompileInputs.cache
+C:\Users\perfi\source\repos\Sus\Sus\obj\Debug\Sus.dll
+C:\Users\perfi\source\repos\Sus\Sus\obj\Debug\Sus.pdb
